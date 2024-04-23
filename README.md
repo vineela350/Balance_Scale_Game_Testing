@@ -1,1 +1,2 @@
-# Balance_Scale_Game_Testing
+Install Google Web Driver appropriate version
+Install Selenium 
